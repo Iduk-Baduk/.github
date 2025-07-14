@@ -8,9 +8,22 @@
 
 👨‍💻객원 멤버: 박근석 (기술 고문)
 
+## 🗂️ Repository
+
+### 🖥️ Front
+
+#### [고객용 웹](https://github.com/Iduk-Baduk/itseats-web-customer)
+
+#### [가맹점용 웹](https://github.com/Iduk-Baduk/itseats-web-owner)
+
+#### [라이더용 웹](https://github.com/Iduk-Baduk/itseats-web-rider)
 
 
-## 🫱🏻‍🫲🏻 팀 규칙
+### 💾 Back
+
+#### [API 서버](https://github.com/Iduk-Baduk/itseats-server)
+
+## 🤝🏻 팀 규칙
 
 <details>
   <summary>팀 규칙</summary>
