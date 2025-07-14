@@ -8,21 +8,6 @@
 
 👨‍💻객원 멤버: 박근석 (기술 고문)
 
-## 🗂️ Repository
-
-### 🖥️ Front
-
-#### [고객용 웹](https://github.com/Iduk-Baduk/itseats-web-customer)
-
-#### [가맹점용 웹](https://github.com/Iduk-Baduk/itseats-web-owner)
-
-#### [라이더용 웹](https://github.com/Iduk-Baduk/itseats-web-rider)
-
-
-### 💾 Back
-
-#### [API 서버](https://github.com/Iduk-Baduk/itseats-server)
-
 ## 🤝🏻 팀 규칙
 
 <details>
@@ -400,3 +385,20 @@ fix(login): 잘못된 비밀번호 처리 로직 수정
 - 기능 단위로 커밋 구분
 
 </details>
+
+---
+
+## 🗂️ Repository
+
+### 🖥️ Front
+
+#### [고객용 웹](https://github.com/Iduk-Baduk/itseats-web-customer)
+
+#### [가맹점용 웹](https://github.com/Iduk-Baduk/itseats-web-owner)
+
+#### [라이더용 웹](https://github.com/Iduk-Baduk/itseats-web-rider)
+
+
+### 💾 Back
+
+#### [API 서버](https://github.com/Iduk-Baduk/itseats-server)
